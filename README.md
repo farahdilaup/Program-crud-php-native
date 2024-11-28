@@ -1,7 +1,6 @@
 # program-crud-php-native
 Berikut adalah README.md versi singkat tanpa fitur upload gambar:  
 
-```markdown
 # CRUD Application with PHP Native
 
 A simple CRUD application built with PHP native and MySQL.
@@ -16,7 +15,7 @@ A simple CRUD application built with PHP native and MySQL.
 
 ### 1. Clone the repository:
 ```bash
-git clone git@github.com:your-username/program-crud-php-native.git
+git clone git@github.com:farahdilaup/program-crud-php-native.git
 ```
 
 ### 2. Create the database and table:
@@ -42,15 +41,10 @@ $user = 'root';
 $password = '';
 ```
 
-### 4. Run the application:
-Start a PHP server:
-```bash
-php -S localhost:8000
-```
-Access the app at:
-```
-http://localhost:8000
-```
+4. **Running the server**:
+    
+bash
+    localhost
 
 ## Usage
 1. **Add Program**: Click "Add New Program", fill the form, and save.
@@ -60,6 +54,3 @@ http://localhost:8000
 
 ---
 
-Happy Coding!  
-👩‍💻
-```
